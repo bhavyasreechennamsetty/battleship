@@ -1,6 +1,6 @@
 # battleship
 
-ABOUT CODE AND ITS ALGO:
+ABOUT CODE:
 
 This code implements a simplified version of the Battleship game for two players. Let's go through it step by step:
 
